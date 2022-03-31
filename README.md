@@ -13,6 +13,7 @@ Uses scrapy for web scraping / photo retrieval and instabot for uploading to an 
 Pre-requirements: 
 * Update *postpicker.py* with username and password for the Instagram account being used
 * Check root directory for photo downloads in *mememachine.py* to ensure that they end up in the proper directory
+
 Steps once configured:
 
 1. mememachine.py
@@ -22,4 +23,5 @@ Steps once configured:
 **Note:** Initially this project had a main.py file that automated the running process, however automating this process can trigger Instagram's botting filters.
 
 **CREATED AND CONFIGURED FOR EDUCATIONAL PURPOSES ONLY**
+
 **USE PROGRAM WITH CAUTION, CAN CAUSE ACCOUNT LOCKOUT OR TERMINATION IF USED IMPROPERLY.**
